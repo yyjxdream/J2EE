@@ -1,1 +1,1 @@
-# J2EE
+# Java Simple RMI Calculator
